@@ -1,5 +1,5 @@
-/* Kyle Green
- * CSC 360
+/* Kyle J Green
+ * CSC 364-01
  * Knapsack Problem : program selects Projects out of a text file whose values combine to generate
  * the greatest possible sum without the sum of the work weeks for the projects exceeding the
  * limit set by the user.
