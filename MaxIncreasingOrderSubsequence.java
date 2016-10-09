@@ -1,5 +1,5 @@
 /* Kyle J Green
- * CSC 360
+ * CSC 364-01
  * Max Increasing Order Subsequence: This program takes a String and converts it to the
  * greatest possible subsequence of character listed in increasing order within the
  * String.
